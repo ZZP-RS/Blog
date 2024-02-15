@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "zhangzhipeng / blog"
+title                    : "zhangzhipeng"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
